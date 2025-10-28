@@ -2,4 +2,7 @@ Soy el fichero info_a1
 
 modifico desde master
 
-y lo vuelvo a modificar desde master
+
+voy a modificar desde master
+
+modifico desde tarea_c con cuidado
